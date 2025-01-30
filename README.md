@@ -4,7 +4,7 @@
 
 <p align="center">Lading-Page - @Code By Ryan</p>
 
-![alt text](https://purplepage.rychillie.net/images/screenshot.png "Logo Title Text 1")
+![Lading Page](https://github.com/user-attachments/assets/3e53fe8e-481a-4629-a1f9-1953000ebf31)
 
 ## 🚀 Apresentação
 
